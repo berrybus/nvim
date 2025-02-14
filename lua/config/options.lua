@@ -4,3 +4,4 @@
 vim.opt.relativenumber = false
 vim.opt.wrap = true
 vim.opt.synmaxcol = 120
+vim.o.expandtab = true
